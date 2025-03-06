@@ -1,8 +1,10 @@
-#include stdio.h
+#include <stdio.h>
+#include <iostream>
 
-using namespace std
+using namespace std;
 
-int main void(){
+int main (){
+    cout << "Olá mundo";
 
-return 0;
+    return 0;
 }
